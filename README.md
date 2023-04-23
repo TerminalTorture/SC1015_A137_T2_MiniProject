@@ -2,7 +2,7 @@
 
 Marcus Lee Jia Rong U2220101E <br>
 Liau Zheng Wei U2222032K <br>
-Jason Lee <br>
+Jason Lee U2222086H<br>
 
 Car Price Prediction <br>
 This is a machine learning project that aims to predict the prices of cars based on various features such as manufacturer, model, mileage, and engine volume. The project involves data cleaning, exploratory data analysis, feature engineering, and model selection to develop an accurate predictive model.
